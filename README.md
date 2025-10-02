@@ -20,6 +20,7 @@ PhD Candidate at the [**Geographic Data Science Lab**](https://www.liverpool.ac.
 ## 🚀 Featured Projects
 
 ### 🌆 [city2graph](https://github.com/c2g-dev/city2graph) - GeoAI with Graph Neural Networks
+[![Stars](https://img.shields.io/github/stars/c2g-dev/city2graph)](https://github.com/c2g-dev/city2graph)
 [![PyPI](https://badge.fury.io/py/city2graph.svg)](https://pypi.org/project/city2graph/)
 [![conda-forge](https://anaconda.org/conda-forge/city2graph/badges/version.svg)](https://anaconda.org/conda-forge/city2graph/)
 [![Downloads](https://static.pepy.tech/badge/city2graph)](https://pepy.tech/projects/city2graph)
