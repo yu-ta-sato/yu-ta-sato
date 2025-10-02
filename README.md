@@ -26,6 +26,3 @@ PhD Candidate at the [**Geographic Data Science Lab**](https://www.liverpool.ac.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15858845.svg)](https://doi.org/10.5281/zenodo.15858845)
 
 A Python library for converting geospatial datasets into graph representations with seamless integration of GeoPandas, NetworkX, and PyTorch Geometric.
-
-## 📊 GitHub Stats
-<video>yu-ta-sato/37225.mp4</video>
