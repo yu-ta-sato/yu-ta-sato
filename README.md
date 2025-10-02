@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Yuta Sato
 
 [![Website](https://img.shields.io/badge/Website-yu--ta--sato.github.io-blue?style=flat-square&logo=google-chrome)](https://yu-ta-sato.github.io)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4529--3577-green?style=flat-square&logo=orcid)](https://orcid.org/0000-0003-4529-3577)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--7052--7163-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0004-7052-7163)
 
 </div>
 
