@@ -28,5 +28,8 @@ PhD Candidate at the [**Geographic Data Science Lab**](https://www.liverpool.ac.
 
 A Python library for converting geospatial datasets into graph representations with seamless integration of GeoPandas, NetworkX, and PyTorch Geometric.
 
-![city2graph](https://github.com/user-attachments/assets/90fbe976-d84e-406f-a4a4-9bf102298e22)
+<div align="center">
+  <img src="img/city2graph.gif" alt="City2Graph" width="400"/>
+</div>
+
 
