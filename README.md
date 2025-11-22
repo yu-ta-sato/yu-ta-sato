@@ -7,6 +7,8 @@
 
 </div>
 
+[![city2graph](http://city2graph.net/_static/social_preview_city2graph.png)](http://city2graph.net/_static/social_preview_city2graph.png)
+
 ---
 
 ## 🎓 About Me
@@ -27,8 +29,6 @@ PhD Candidate at the [**Geographic Data Science Lab**](https://www.liverpool.ac.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15858845.svg)](https://doi.org/10.5281/zenodo.15858845)
 
 A Python library for converting geospatial datasets into graph representations with seamless integration of GeoPandas, NetworkX, and PyTorch Geometric.
-
-[![city2graph](http://city2graph.net/_static/social_preview_city2graph.png)](http://city2graph.net/_static/social_preview_city2graph.png)
 
 
 
