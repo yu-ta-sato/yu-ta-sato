@@ -7,7 +7,11 @@
 
 </div>
 
-[![city2graph](http://city2graph.net/_static/social_preview_city2graph.png)](http://city2graph.net/_static/social_preview_city2graph.png)
+[![city2graph](http://city2graph.net/_static/social_preview_city2graph.png)](https://github.com/c2g-dev/city2graph)
+
+<div align="center">
+  <a href="https://github.com/c2g-dev/city2graph">City2Graph</a>
+</div>
 
 ---
 
